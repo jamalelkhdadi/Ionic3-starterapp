@@ -67,6 +67,7 @@
     "cordova-promise-polyfill": "0.0.2",
     "cordova-sqlite-storage": "^2.3.1",
     "es6-promise-plugin": "^4.2.2",
+    "express": "^4.17.1",
     "firebase": "^4.6.0",
     "ionic-angular": "3.9.2",
     "ionic-img-viewer": "^2.9.0",
